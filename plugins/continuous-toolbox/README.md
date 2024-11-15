@@ -6,7 +6,7 @@ A [Blockly](https://www.npmjs.com/package/blockly) plugin that creates a continu
 The continuous toolbox is shown here with the 'Zelos' theme, and the style can be further customized.
 
 ## Installation
-
+s
 ### Yarn
 
 ```
