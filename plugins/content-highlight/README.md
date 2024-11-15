@@ -8,7 +8,7 @@ content on the workspace.
 ## Installation
 
 ### Yarn
-
+test
 ```
 yarn add @blockly/workspace-content-highlight
 ```
